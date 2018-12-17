@@ -1,0 +1,14 @@
+/Users/burakcaglayan/Projects/SagaSample/Shop/bin/Debug/netcoreapp2.1/Shop.deps.json
+/Users/burakcaglayan/Projects/SagaSample/Shop/bin/Debug/netcoreapp2.1/Shop.runtimeconfig.json
+/Users/burakcaglayan/Projects/SagaSample/Shop/bin/Debug/netcoreapp2.1/Shop.runtimeconfig.dev.json
+/Users/burakcaglayan/Projects/SagaSample/Shop/bin/Debug/netcoreapp2.1/Shop.dll
+/Users/burakcaglayan/Projects/SagaSample/Shop/bin/Debug/netcoreapp2.1/Shop.pdb
+/Users/burakcaglayan/Projects/SagaSample/Shop/bin/Debug/netcoreapp2.1/Messages.dll
+/Users/burakcaglayan/Projects/SagaSample/Shop/bin/Debug/netcoreapp2.1/Messages.pdb
+/Users/burakcaglayan/Projects/SagaSample/Shop/obj/Debug/netcoreapp2.1/Shop.csprojAssemblyReference.cache
+/Users/burakcaglayan/Projects/SagaSample/Shop/obj/Debug/netcoreapp2.1/Shop.csproj.CoreCompileInputs.cache
+/Users/burakcaglayan/Projects/SagaSample/Shop/obj/Debug/netcoreapp2.1/Shop.AssemblyInfoInputs.cache
+/Users/burakcaglayan/Projects/SagaSample/Shop/obj/Debug/netcoreapp2.1/Shop.AssemblyInfo.cs
+/Users/burakcaglayan/Projects/SagaSample/Shop/obj/Debug/netcoreapp2.1/Shop.csproj.CopyComplete
+/Users/burakcaglayan/Projects/SagaSample/Shop/obj/Debug/netcoreapp2.1/Shop.dll
+/Users/burakcaglayan/Projects/SagaSample/Shop/obj/Debug/netcoreapp2.1/Shop.pdb

@@ -1,0 +1,14 @@
+/Users/burakcaglayan/Projects/SagaSample/Payments/bin/Debug/netcoreapp2.1/Payments.deps.json
+/Users/burakcaglayan/Projects/SagaSample/Payments/bin/Debug/netcoreapp2.1/Payments.runtimeconfig.json
+/Users/burakcaglayan/Projects/SagaSample/Payments/bin/Debug/netcoreapp2.1/Payments.runtimeconfig.dev.json
+/Users/burakcaglayan/Projects/SagaSample/Payments/bin/Debug/netcoreapp2.1/Payments.dll
+/Users/burakcaglayan/Projects/SagaSample/Payments/bin/Debug/netcoreapp2.1/Payments.pdb
+/Users/burakcaglayan/Projects/SagaSample/Payments/bin/Debug/netcoreapp2.1/Messages.dll
+/Users/burakcaglayan/Projects/SagaSample/Payments/bin/Debug/netcoreapp2.1/Messages.pdb
+/Users/burakcaglayan/Projects/SagaSample/Payments/obj/Debug/netcoreapp2.1/Payments.csprojAssemblyReference.cache
+/Users/burakcaglayan/Projects/SagaSample/Payments/obj/Debug/netcoreapp2.1/Payments.csproj.CoreCompileInputs.cache
+/Users/burakcaglayan/Projects/SagaSample/Payments/obj/Debug/netcoreapp2.1/Payments.AssemblyInfoInputs.cache
+/Users/burakcaglayan/Projects/SagaSample/Payments/obj/Debug/netcoreapp2.1/Payments.AssemblyInfo.cs
+/Users/burakcaglayan/Projects/SagaSample/Payments/obj/Debug/netcoreapp2.1/Payments.csproj.CopyComplete
+/Users/burakcaglayan/Projects/SagaSample/Payments/obj/Debug/netcoreapp2.1/Payments.dll
+/Users/burakcaglayan/Projects/SagaSample/Payments/obj/Debug/netcoreapp2.1/Payments.pdb

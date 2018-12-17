@@ -1,0 +1,9 @@
+/Users/burakcaglayan/Projects/SagaSample/Messages/bin/Debug/netstandard2.0/Messages.deps.json
+/Users/burakcaglayan/Projects/SagaSample/Messages/bin/Debug/netstandard2.0/Messages.dll
+/Users/burakcaglayan/Projects/SagaSample/Messages/bin/Debug/netstandard2.0/Messages.pdb
+/Users/burakcaglayan/Projects/SagaSample/Messages/obj/Debug/netstandard2.0/Messages.csprojAssemblyReference.cache
+/Users/burakcaglayan/Projects/SagaSample/Messages/obj/Debug/netstandard2.0/Messages.csproj.CoreCompileInputs.cache
+/Users/burakcaglayan/Projects/SagaSample/Messages/obj/Debug/netstandard2.0/Messages.AssemblyInfoInputs.cache
+/Users/burakcaglayan/Projects/SagaSample/Messages/obj/Debug/netstandard2.0/Messages.AssemblyInfo.cs
+/Users/burakcaglayan/Projects/SagaSample/Messages/obj/Debug/netstandard2.0/Messages.dll
+/Users/burakcaglayan/Projects/SagaSample/Messages/obj/Debug/netstandard2.0/Messages.pdb

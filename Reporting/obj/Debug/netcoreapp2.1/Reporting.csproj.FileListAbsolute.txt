@@ -1,0 +1,14 @@
+/Users/burakcaglayan/Projects/SagaSample/Reporting/bin/Debug/netcoreapp2.1/Reporting.deps.json
+/Users/burakcaglayan/Projects/SagaSample/Reporting/bin/Debug/netcoreapp2.1/Reporting.runtimeconfig.json
+/Users/burakcaglayan/Projects/SagaSample/Reporting/bin/Debug/netcoreapp2.1/Reporting.runtimeconfig.dev.json
+/Users/burakcaglayan/Projects/SagaSample/Reporting/bin/Debug/netcoreapp2.1/Reporting.dll
+/Users/burakcaglayan/Projects/SagaSample/Reporting/bin/Debug/netcoreapp2.1/Reporting.pdb
+/Users/burakcaglayan/Projects/SagaSample/Reporting/bin/Debug/netcoreapp2.1/Messages.dll
+/Users/burakcaglayan/Projects/SagaSample/Reporting/bin/Debug/netcoreapp2.1/Messages.pdb
+/Users/burakcaglayan/Projects/SagaSample/Reporting/obj/Debug/netcoreapp2.1/Reporting.csprojAssemblyReference.cache
+/Users/burakcaglayan/Projects/SagaSample/Reporting/obj/Debug/netcoreapp2.1/Reporting.csproj.CoreCompileInputs.cache
+/Users/burakcaglayan/Projects/SagaSample/Reporting/obj/Debug/netcoreapp2.1/Reporting.AssemblyInfoInputs.cache
+/Users/burakcaglayan/Projects/SagaSample/Reporting/obj/Debug/netcoreapp2.1/Reporting.AssemblyInfo.cs
+/Users/burakcaglayan/Projects/SagaSample/Reporting/obj/Debug/netcoreapp2.1/Reporting.csproj.CopyComplete
+/Users/burakcaglayan/Projects/SagaSample/Reporting/obj/Debug/netcoreapp2.1/Reporting.dll
+/Users/burakcaglayan/Projects/SagaSample/Reporting/obj/Debug/netcoreapp2.1/Reporting.pdb
